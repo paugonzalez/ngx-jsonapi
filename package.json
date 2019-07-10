@@ -1,5 +1,5 @@
 {
-    "name": "ngx-jsonapi-demo",
+    "name": "ngx-jsonapi",
         "version": "2.0.0-rc.3",
     "description": "Demo app for JSON API library for Angular",
     "scripts": {
